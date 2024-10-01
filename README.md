@@ -8,3 +8,4 @@ int main() {
    return 0;
 }
 ```
+![https://media1.tenor.com/m/iaGQEpzcRW0AAAAd/yui.gif]
