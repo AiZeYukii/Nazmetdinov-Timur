@@ -1,4 +1,8 @@
 # Nazmetdinov-Timur
-Репозиторий для лаб
+### Репозиторий для лаб
 ## Код
-`типа код`
+`#include <stdio.h>
+int main() {
+   printf("Hello, World!");
+   return 0;
+}`
