@@ -1,5 +1,5 @@
 # Nazmetdinov-Timur
-**Репозиторий для лаб**
+**Репозиторий для лаб
 ## Код
 `#include <stdio.h>
 int main() {
