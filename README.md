@@ -8,4 +8,4 @@ int main() {
    return 0;
 }
 ```
-![Люблю кушац(https://media1.tenor.com/m/iaGQEpzcRW0AAAAd/yui.gif)]
+![Люблю кушац](https://media1.tenor.com/m/iaGQEpzcRW0AAAAd/yui.gif)
